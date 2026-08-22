@@ -1,5 +1,4 @@
-local Library = loadstring(game:HttpGet("https://github.com/legend158/xk92mfqle-privn1x/edit/main/UILibrary.lua
-        "))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/legend158/xk92mfqle-privn1x/main/UILibrary.lua"))()
 -- client/scripts/MenuGui.lua
 
 local player = game:GetService("Players").LocalPlayer
